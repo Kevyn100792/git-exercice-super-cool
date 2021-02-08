@@ -1,2 +1,3 @@
 # git-exercice-super-cool
-On s'en fout
+
+Il y a très peu d'intérêt.
